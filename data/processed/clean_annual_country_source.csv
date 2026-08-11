@@ -1,0 +1,771 @@
+country,iso3,year,electricity_source,is_aggregated_source,generation_twh,share_generation_pct,emissions_mtco2e,emissions_intensity_gco2e_kwh
+Brazil,BRA,2015,Coal,False,26.98,4.642,23.519,871.72
+Brazil,BRA,2015,Demand,True,615.64,105.922,,
+Brazil,BRA,2015,Gas,False,79.49,13.676,47.661,599.585
+Brazil,BRA,2015,Nuclear,False,14.73,2.534,0.069,4.684
+Brazil,BRA,2015,Other fossil,False,28.71,4.94,18.891,657.994
+Brazil,BRA,2015,Renewables,True,431.31,74.208,19.5,45.211
+Brazil,BRA,2015,Total generation,True,581.22,100.0,109.64,188.638
+Brazil,BRA,2016,Coal,False,25.67,4.434,22.377,871.718
+Brazil,BRA,2016,Demand,True,619.68,107.046,,
+Brazil,BRA,2016,Gas,False,56.48,9.757,33.865,599.593
+Brazil,BRA,2016,Nuclear,False,15.86,2.74,0.074,4.666
+Brazil,BRA,2016,Other fossil,False,15.06,2.602,9.909,657.968
+Brazil,BRA,2016,Renewables,True,465.82,80.468,20.409,43.813
+Brazil,BRA,2016,Total generation,True,578.89,100.0,86.634,149.655
+Brazil,BRA,2017,Coal,False,22.85,3.877,19.919,871.729
+Brazil,BRA,2017,Demand,True,625.67,106.168,,
+Brazil,BRA,2017,Gas,False,65.59,11.13,39.327,599.588
+Brazil,BRA,2017,Nuclear,False,15.74,2.671,0.073,4.638
+Brazil,BRA,2017,Other fossil,False,18.12,3.075,11.923,658.002
+Brazil,BRA,2017,Renewables,True,467.02,79.247,20.617,44.146
+Brazil,BRA,2017,Total generation,True,589.32,100.0,91.858,155.871
+Brazil,BRA,2018,Coal,False,20.8,3.459,18.132,871.731
+Brazil,BRA,2018,Demand,True,636.37,105.817,,
+Brazil,BRA,2018,Gas,False,54.62,9.082,32.749,599.579
+Brazil,BRA,2018,Nuclear,False,15.67,2.606,0.073,4.659
+Brazil,BRA,2018,Other fossil,False,15.01,2.496,9.877,658.028
+Brazil,BRA,2018,Renewables,True,495.29,82.358,21.536,43.482
+Brazil,BRA,2018,Total generation,True,601.39,100.0,82.366,136.959
+Brazil,BRA,2019,Coal,False,21.68,3.423,18.899,871.725
+Brazil,BRA,2019,Demand,True,658.29,103.941,,
+Brazil,BRA,2019,Gas,False,65.96,10.415,39.549,599.591
+Brazil,BRA,2019,Nuclear,False,16.13,2.547,0.075,4.65
+Brazil,BRA,2019,Other fossil,False,14.12,2.229,9.291,658.003
+Brazil,BRA,2019,Renewables,True,515.44,81.386,22.073,42.824
+Brazil,BRA,2019,Total generation,True,633.33,100.0,89.887,141.928
+Brazil,BRA,2020,Coal,False,17.75,2.823,15.473,871.718
+Brazil,BRA,2020,Demand,True,653.48,103.932,,
+Brazil,BRA,2020,Gas,False,59.48,9.46,35.663,599.58
+Brazil,BRA,2020,Nuclear,False,14.05,2.235,0.065,4.626
+Brazil,BRA,2020,Other fossil,False,14.56,2.316,9.58,657.967
+Brazil,BRA,2020,Renewables,True,522.92,83.167,23.066,44.11
+Brazil,BRA,2020,Total generation,True,628.76,100.0,83.848,133.355
+Brazil,BRA,2021,Coal,False,24.24,3.693,21.13,871.7
+Brazil,BRA,2021,Demand,True,679.5,103.519,,
+Brazil,BRA,2021,Gas,False,86.96,13.248,52.14,599.586
+Brazil,BRA,2021,Nuclear,False,14.7,2.239,0.068,4.626
+Brazil,BRA,2021,Other fossil,False,22.63,3.448,14.891,658.02
+Brazil,BRA,2021,Renewables,True,507.87,77.372,22.081,43.478
+Brazil,BRA,2021,Total generation,True,656.4,100.0,110.31,168.053
+Brazil,BRA,2022,Coal,False,14.4,2.127,12.553,871.736
+Brazil,BRA,2022,Demand,True,690.07,101.906,,
+Brazil,BRA,2022,Gas,False,42.11,6.219,25.249,599.596
+Brazil,BRA,2022,Nuclear,False,14.56,2.15,0.068,4.67
+Brazil,BRA,2022,Other fossil,False,12.2,1.802,8.028,658.033
+Brazil,BRA,2022,Renewables,True,593.89,87.703,24.102,40.583
+Brazil,BRA,2022,Total generation,True,677.16,100.0,69.998,103.37
+Brazil,BRA,2023,Coal,False,13.31,1.88,11.602,871.675
+Brazil,BRA,2023,Demand,True,723.23,102.134,,
+Brazil,BRA,2023,Gas,False,38.59,5.45,23.138,599.585
+Brazil,BRA,2023,Nuclear,False,14.5,2.048,0.067,4.621
+Brazil,BRA,2023,Other fossil,False,11.53,1.628,7.587,658.023
+Brazil,BRA,2023,Renewables,True,630.19,88.995,25.751,40.862
+Brazil,BRA,2023,Total generation,True,708.12,100.0,68.146,96.235
+Brazil,BRA,2024,Coal,False,16.21,2.174,14.13,871.684
+Brazil,BRA,2024,Demand,True,757.31,101.554,,
+Brazil,BRA,2024,Gas,False,48.76,6.539,29.236,599.59
+Brazil,BRA,2024,Nuclear,False,15.78,2.116,0.073,4.626
+Brazil,BRA,2024,Other fossil,False,13.71,1.838,9.021,657.987
+Brazil,BRA,2024,Renewables,True,651.26,87.333,26.631,40.892
+Brazil,BRA,2024,Total generation,True,745.72,100.0,79.092,106.061
+Brazil,BRA,2025,Coal,False,17.19,2.285,14.985,871.728
+Brazil,BRA,2025,Demand,True,763.76,101.541,,
+Brazil,BRA,2025,Gas,False,54.85,7.292,32.887,599.581
+Brazil,BRA,2025,Nuclear,False,15.87,2.11,0.074,4.663
+Brazil,BRA,2025,Other fossil,False,12.65,1.682,8.324,658.024
+Brazil,BRA,2025,Renewables,True,651.61,86.631,26.344,40.429
+Brazil,BRA,2025,Total generation,True,752.17,100.0,82.613,109.833
+Canada,CAN,2015,Coal,False,64.96,9.826,57.473,884.744
+Canada,CAN,2015,Demand,True,601.55,90.995,,
+Canada,CAN,2015,Gas,False,67.98,10.283,49.067,721.786
+Canada,CAN,2015,Nuclear,False,101.1,15.293,0.474,4.688
+Canada,CAN,2015,Other fossil,False,5.0,0.756,3.29,658.0
+Canada,CAN,2015,Renewables,True,422.04,63.841,11.635,27.568
+Canada,CAN,2015,Total generation,True,661.08,100.0,121.94,184.456
+Canada,CAN,2016,Coal,False,65.02,9.746,57.527,884.759
+Canada,CAN,2016,Demand,True,603.33,90.437,,
+Canada,CAN,2016,Gas,False,65.82,9.866,47.508,721.787
+Canada,CAN,2016,Nuclear,False,100.72,15.098,0.473,4.696
+Canada,CAN,2016,Other fossil,False,4.84,0.725,3.185,658.058
+Canada,CAN,2016,Renewables,True,430.73,64.565,12.051,27.978
+Canada,CAN,2016,Total generation,True,667.13,100.0,120.743,180.989
+Canada,CAN,2017,Coal,False,62.81,9.384,55.571,884.748
+Canada,CAN,2017,Demand,True,607.11,90.701,,
+Canada,CAN,2017,Gas,False,61.46,9.182,44.361,721.787
+Canada,CAN,2017,Nuclear,False,100.6,15.03,0.472,4.692
+Canada,CAN,2017,Other fossil,False,3.92,0.586,2.579,657.908
+Canada,CAN,2017,Renewables,True,440.56,65.819,12.243,27.79
+Canada,CAN,2017,Total generation,True,669.35,100.0,115.227,172.148
+Canada,CAN,2018,Coal,False,53.02,8.019,46.907,884.704
+Canada,CAN,2018,Demand,True,613.0,92.71,,
+Canada,CAN,2018,Gas,False,70.74,10.699,51.06,721.798
+Canada,CAN,2018,Nuclear,False,100.03,15.129,0.469,4.689
+Canada,CAN,2018,Other fossil,False,4.02,0.608,2.645,657.96
+Canada,CAN,2018,Renewables,True,433.39,65.546,11.932,27.532
+Canada,CAN,2018,Total generation,True,661.2,100.0,113.013,170.921
+Canada,CAN,2019,Coal,False,50.14,7.647,44.356,884.643
+Canada,CAN,2019,Demand,True,608.62,92.82,,
+Canada,CAN,2019,Gas,False,72.94,11.124,52.648,721.799
+Canada,CAN,2019,Nuclear,False,100.49,15.326,0.472,4.697
+Canada,CAN,2019,Other fossil,False,3.42,0.522,2.25,657.895
+Canada,CAN,2019,Renewables,True,428.71,65.382,11.791,27.503
+Canada,CAN,2019,Total generation,True,655.7,100.0,111.516,170.072
+Canada,CAN,2020,Coal,False,39.04,5.952,34.534,884.58
+Canada,CAN,2020,Demand,True,598.25,91.212,,
+Canada,CAN,2020,Gas,False,75.59,11.525,54.56,721.789
+Canada,CAN,2020,Nuclear,False,97.51,14.867,0.458,4.697
+Canada,CAN,2020,Other fossil,False,6.96,1.061,4.58,658.046
+Canada,CAN,2020,Renewables,True,436.79,66.595,11.969,27.402
+Canada,CAN,2020,Total generation,True,655.89,100.0,106.101,161.766
+Canada,CAN,2021,Coal,False,34.83,5.339,30.869,886.276
+Canada,CAN,2021,Demand,True,605.11,92.751,,
+Canada,CAN,2021,Gas,False,83.6,12.814,60.342,721.794
+Canada,CAN,2021,Nuclear,False,91.98,14.099,0.432,4.697
+Canada,CAN,2021,Other fossil,False,6.6,1.012,4.343,658.03
+Canada,CAN,2021,Renewables,True,435.39,66.737,11.965,27.481
+Canada,CAN,2021,Total generation,True,652.4,100.0,107.95,165.466
+Canada,CAN,2022,Coal,False,26.49,3.989,23.556,889.241
+Canada,CAN,2022,Demand,True,612.97,92.304,,
+Canada,CAN,2022,Gas,False,90.44,13.619,65.279,721.793
+Canada,CAN,2022,Nuclear,False,86.63,13.045,0.407,4.698
+Canada,CAN,2022,Other fossil,False,8.05,1.212,5.297,658.012
+Canada,CAN,2022,Renewables,True,452.47,68.135,12.157,26.868
+Canada,CAN,2022,Total generation,True,664.08,100.0,106.695,160.666
+Canada,CAN,2023,Coal,False,23.74,3.701,21.197,892.881
+Canada,CAN,2023,Demand,True,613.63,95.672,,
+Canada,CAN,2023,Gas,False,102.88,16.04,74.258,721.792
+Canada,CAN,2023,Nuclear,False,88.43,13.787,0.415,4.693
+Canada,CAN,2023,Other fossil,False,6.89,1.074,4.534,658.055
+Canada,CAN,2023,Renewables,True,419.45,65.397,11.474,27.355
+Canada,CAN,2023,Total generation,True,641.39,100.0,111.878,174.431
+Canada,CAN,2024,Coal,False,25.14,3.948,22.578,898.091
+Canada,CAN,2024,Demand,True,624.36,98.048,,
+Canada,CAN,2024,Gas,False,109.6,17.211,79.109,721.797
+Canada,CAN,2024,Nuclear,False,85.47,13.422,0.401,4.692
+Canada,CAN,2024,Other fossil,False,7.3,1.146,4.803,657.945
+Canada,CAN,2024,Renewables,True,409.28,64.272,11.173,27.299
+Canada,CAN,2024,Total generation,True,636.79,100.0,118.064,185.405
+Canada,CAN,2025,Coal,False,26.05,3.993,23.436,899.655
+Canada,CAN,2025,Demand,True,645.63,98.958,,
+Canada,CAN,2025,Gas,False,116.61,17.873,84.168,721.791
+Canada,CAN,2025,Nuclear,False,85.32,13.077,0.4,4.688
+Canada,CAN,2025,Other fossil,False,7.61,1.166,5.007,657.95
+Canada,CAN,2025,Renewables,True,416.84,63.89,11.423,27.404
+Canada,CAN,2025,Total generation,True,652.43,100.0,124.435,190.725
+China,CHN,2015,Coal,False,4046.17,69.587,3742.331,924.907
+China,CHN,2015,Demand,True,5802.14,99.786,,
+China,CHN,2015,Gas,False,166.91,2.871,74.156,444.287
+China,CHN,2015,Nuclear,False,171.38,2.947,0.949,5.537
+China,CHN,2015,Other fossil,False,36.46,0.627,23.991,658.009
+China,CHN,2015,Renewables,True,1393.66,23.968,42.386,30.413
+China,CHN,2015,Total generation,True,5814.58,100.0,3883.812,667.944
+China,CHN,2016,Coal,False,4156.35,67.768,3831.477,921.837
+China,CHN,2016,Demand,True,6120.44,99.793,,
+China,CHN,2016,Gas,False,188.28,3.07,83.65,444.285
+China,CHN,2016,Nuclear,False,213.18,3.476,1.18,5.535
+China,CHN,2016,Other fossil,False,52.56,0.857,34.584,657.991
+China,CHN,2016,Renewables,True,1522.79,24.829,47.043,30.893
+China,CHN,2016,Total generation,True,6133.16,100.0,3997.935,651.856
+China,CHN,2017,Coal,False,4430.03,67.077,4072.389,919.269
+China,CHN,2017,Demand,True,6591.39,99.802,,
+China,CHN,2017,Gas,False,203.2,3.077,90.279,444.286
+China,CHN,2017,Nuclear,False,248.1,3.757,1.374,5.538
+China,CHN,2017,Other fossil,False,56.05,0.849,36.881,658.002
+China,CHN,2017,Renewables,True,1667.06,25.242,54.361,32.609
+China,CHN,2017,Total generation,True,6604.44,100.0,4255.283,644.306
+China,CHN,2018,Coal,False,4763.85,66.477,4368.393,916.988
+China,CHN,2018,Demand,True,7150.92,99.788,,
+China,CHN,2018,Gas,False,215.5,3.007,95.743,444.283
+China,CHN,2018,Nuclear,False,295.0,4.117,1.633,5.536
+China,CHN,2018,Other fossil,False,56.4,0.787,37.111,657.996
+China,CHN,2018,Renewables,True,1835.39,25.612,61.845,33.696
+China,CHN,2018,Total generation,True,7166.14,100.0,4564.726,636.985
+China,CHN,2019,Coal,False,4855.12,64.705,4439.881,914.474
+China,CHN,2019,Demand,True,7486.63,99.776,,
+China,CHN,2019,Gas,False,232.5,3.099,103.296,444.284
+China,CHN,2019,Nuclear,False,348.7,4.647,1.931,5.538
+China,CHN,2019,Other fossil,False,52.47,0.699,34.525,657.995
+China,CHN,2019,Renewables,True,2014.64,26.85,70.457,34.973
+China,CHN,2019,Total generation,True,7503.43,100.0,4650.091,619.729
+China,CHN,2020,Coal,False,4921.89,63.271,4488.67,911.981
+China,CHN,2020,Demand,True,7762.03,99.781,,
+China,CHN,2020,Gas,False,252.5,3.246,112.182,444.285
+China,CHN,2020,Nuclear,False,366.2,4.708,2.028,5.538
+China,CHN,2020,Other fossil,False,53.47,0.687,35.183,657.995
+China,CHN,2020,Renewables,True,2185.01,28.088,79.137,36.218
+China,CHN,2020,Total generation,True,7779.07,100.0,4717.201,606.397
+China,CHN,2021,Coal,False,5333.8,62.499,4854.969,910.227
+China,CHN,2021,Demand,True,8520.02,99.833,,
+China,CHN,2021,Gas,False,287.1,3.364,127.554,444.284
+China,CHN,2021,Nuclear,False,407.5,4.775,2.256,5.536
+China,CHN,2021,Other fossil,False,57.06,0.669,37.545,657.992
+China,CHN,2021,Renewables,True,2448.8,28.694,91.0,37.161
+China,CHN,2021,Total generation,True,8534.26,100.0,5113.325,599.153
+China,CHN,2022,Coal,False,5414.72,61.192,4921.471,908.906
+China,CHN,2022,Demand,True,8835.76,99.854,,
+China,CHN,2022,Gas,False,275.62,3.115,122.454,444.286
+China,CHN,2022,Nuclear,False,417.78,4.721,2.313,5.536
+China,CHN,2022,Other fossil,False,69.93,0.79,46.014,658.001
+China,CHN,2022,Renewables,True,2670.66,30.181,100.744,37.723
+China,CHN,2022,Total generation,True,8848.71,100.0,5192.996,586.865
+China,CHN,2023,Coal,False,5752.74,60.834,5218.575,907.146
+China,CHN,2023,Demand,True,9439.37,99.819,,
+China,CHN,2023,Gas,False,297.8,3.149,132.308,444.285
+China,CHN,2023,Nuclear,False,434.72,4.597,2.407,5.537
+China,CHN,2023,Other fossil,False,76.97,0.814,50.646,657.997
+China,CHN,2023,Renewables,True,2894.22,30.606,111.501,38.525
+China,CHN,2023,Total generation,True,9456.45,100.0,5515.438,583.246
+China,CHN,2024,Coal,False,5827.6,57.774,5277.23,905.558
+China,CHN,2024,Demand,True,10069.88,99.831,,
+China,CHN,2024,Gas,False,320.72,3.18,142.491,444.285
+China,CHN,2024,Nuclear,False,450.85,4.47,2.496,5.536
+China,CHN,2024,Other fossil,False,88.88,0.881,58.483,658.0
+China,CHN,2024,Renewables,True,3398.83,33.696,130.284,38.332
+China,CHN,2024,Total generation,True,10086.88,100.0,5610.985,556.266
+China,CHN,2025,Coal,False,5772.37,54.569,5215.03,903.447
+China,CHN,2025,Demand,True,10558.59,99.816,,
+China,CHN,2025,Gas,False,317.89,3.005,141.234,444.286
+China,CHN,2025,Nuclear,False,486.89,4.603,2.696,5.537
+China,CHN,2025,Other fossil,False,88.71,0.839,58.371,657.998
+China,CHN,2025,Renewables,True,3912.19,36.984,148.631,37.992
+China,CHN,2025,Total generation,True,10578.05,100.0,5565.963,526.18
+Germany,DEU,2015,Coal,False,272.2,42.586,263.963,969.739
+Germany,DEU,2015,Demand,True,590.89,92.446,,
+Germany,DEU,2015,Gas,False,61.47,9.617,26.506,431.202
+Germany,DEU,2015,Nuclear,False,91.79,14.361,0.443,4.826
+Germany,DEU,2015,Other fossil,False,25.57,4.001,16.825,657.998
+Germany,DEU,2015,Renewables,True,188.14,29.435,14.144,75.178
+Germany,DEU,2015,Total generation,True,639.17,100.0,321.881,503.592
+Germany,DEU,2016,Coal,False,261.75,40.802,253.513,968.531
+Germany,DEU,2016,Demand,True,591.0,92.125,,
+Germany,DEU,2016,Gas,False,80.62,12.567,34.763,431.196
+Germany,DEU,2016,Nuclear,False,84.63,13.192,0.408,4.821
+Germany,DEU,2016,Other fossil,False,25.39,3.958,16.707,658.015
+Germany,DEU,2016,Renewables,True,189.13,29.482,14.283,75.519
+Germany,DEU,2016,Total generation,True,641.52,100.0,319.674,498.307
+Germany,DEU,2017,Coal,False,241.26,37.436,234.033,970.045
+Germany,DEU,2017,Demand,True,592.0,91.86,,
+Germany,DEU,2017,Gas,False,86.04,13.351,37.1,431.195
+Germany,DEU,2017,Nuclear,False,76.32,11.842,0.368,4.822
+Germany,DEU,2017,Other fossil,False,25.16,3.904,16.555,657.989
+Germany,DEU,2017,Renewables,True,215.68,33.467,14.649,67.92
+Germany,DEU,2017,Total generation,True,644.46,100.0,302.706,469.705
+Germany,DEU,2018,Coal,False,228.16,36.085,221.42,970.459
+Germany,DEU,2018,Demand,True,583.54,92.291,,
+Germany,DEU,2018,Gas,False,81.56,12.899,35.169,431.204
+Germany,DEU,2018,Nuclear,False,76.0,12.02,0.367,4.829
+Germany,DEU,2018,Other fossil,False,23.63,3.737,15.549,658.019
+Germany,DEU,2018,Renewables,True,222.93,35.258,14.881,66.752
+Germany,DEU,2018,Total generation,True,632.28,100.0,287.385,454.522
+Germany,DEU,2019,Coal,False,171.45,28.571,166.585,971.624
+Germany,DEU,2019,Demand,True,567.42,94.556,,
+Germany,DEU,2019,Gas,False,90.0,14.998,38.808,431.2
+Germany,DEU,2019,Nuclear,False,75.07,12.51,0.362,4.822
+Germany,DEU,2019,Other fossil,False,22.4,3.733,14.739,657.991
+Germany,DEU,2019,Renewables,True,241.17,40.189,15.031,62.325
+Germany,DEU,2019,Total generation,True,600.09,100.0,235.526,392.484
+Germany,DEU,2020,Coal,False,134.6,23.749,130.813,971.865
+Germany,DEU,2020,Demand,True,547.72,96.642,,
+Germany,DEU,2020,Gas,False,95.0,16.762,40.964,431.2
+Germany,DEU,2020,Nuclear,False,64.38,11.36,0.311,4.831
+Germany,DEU,2020,Other fossil,False,21.28,3.755,14.002,657.989
+Germany,DEU,2020,Renewables,True,251.49,44.374,15.463,61.486
+Germany,DEU,2020,Total generation,True,566.75,100.0,201.552,355.628
+Germany,DEU,2021,Coal,False,164.65,28.445,159.668,969.742
+Germany,DEU,2021,Demand,True,560.25,96.79,,
+Germany,DEU,2021,Gas,False,90.31,15.602,38.941,431.193
+Germany,DEU,2021,Nuclear,False,69.13,11.943,0.334,4.831
+Germany,DEU,2021,Other fossil,False,22.24,3.842,14.634,658.004
+Germany,DEU,2021,Renewables,True,232.5,40.167,14.86,63.914
+Germany,DEU,2021,Total generation,True,578.83,100.0,228.436,394.651
+Germany,DEU,2022,Coal,False,179.93,31.74,174.07,967.432
+Germany,DEU,2022,Demand,True,539.62,95.191,,
+Germany,DEU,2022,Gas,False,79.05,13.945,34.086,431.195
+Germany,DEU,2022,Nuclear,False,34.71,6.123,0.167,4.811
+Germany,DEU,2022,Other fossil,False,21.65,3.819,14.246,658.014
+Germany,DEU,2022,Renewables,True,251.54,44.373,15.354,61.04
+Germany,DEU,2022,Total generation,True,566.88,100.0,237.924,419.708
+Germany,DEU,2023,Coal,False,124.78,24.625,120.979,969.538
+Germany,DEU,2023,Demand,True,515.94,101.82,,
+Germany,DEU,2023,Gas,False,76.66,15.129,33.056,431.203
+Germany,DEU,2023,Nuclear,False,7.22,1.425,0.035,4.848
+Germany,DEU,2023,Other fossil,False,20.96,4.136,13.792,658.015
+Germany,DEU,2023,Renewables,True,277.1,54.685,16.376,59.098
+Germany,DEU,2023,Total generation,True,506.72,100.0,184.237,363.587
+Germany,DEU,2024,Coal,False,106.33,21.438,103.078,969.416
+Germany,DEU,2024,Demand,True,522.26,105.296,,
+Germany,DEU,2024,Gas,False,78.41,15.809,33.81,431.195
+Germany,DEU,2024,Nuclear,False,0.0,0.0,0.0,
+Germany,DEU,2024,Other fossil,False,20.39,4.111,13.417,658.019
+Germany,DEU,2024,Renewables,True,290.86,58.642,16.903,58.114
+Germany,DEU,2024,Total generation,True,495.99,100.0,167.208,337.12
+Germany,DEU,2025,Coal,False,103.15,20.635,99.565,965.245
+Germany,DEU,2025,Demand,True,519.38,103.899,,
+Germany,DEU,2025,Gas,False,82.67,16.538,35.647,431.196
+Germany,DEU,2025,Nuclear,False,0.0,0.0,0.0,
+Germany,DEU,2025,Other fossil,False,18.91,3.783,12.443,658.012
+Germany,DEU,2025,Renewables,True,295.16,59.045,17.32,58.68
+Germany,DEU,2025,Total generation,True,499.89,100.0,164.975,330.023
+France,FRA,2015,Coal,False,11.89,2.071,11.49,966.358
+France,FRA,2015,Demand,True,510.09,88.843,,
+France,FRA,2015,Gas,False,21.14,3.682,9.199,435.147
+France,FRA,2015,Nuclear,False,437.43,76.187,2.111,4.826
+France,FRA,2015,Other fossil,False,11.85,2.064,7.797,657.975
+France,FRA,2015,Renewables,True,91.84,15.996,3.385,36.858
+France,FRA,2015,Total generation,True,574.15,100.0,33.982,59.187
+France,FRA,2016,Coal,False,10.23,1.831,9.878,965.591
+France,FRA,2016,Demand,True,517.34,92.574,,
+France,FRA,2016,Gas,False,34.97,6.258,15.217,435.144
+France,FRA,2016,Nuclear,False,403.2,72.149,1.945,4.824
+France,FRA,2016,Other fossil,False,11.44,2.047,7.528,658.042
+France,FRA,2016,Renewables,True,99.0,17.715,3.768,38.061
+France,FRA,2016,Total generation,True,558.84,100.0,38.335,68.597
+France,FRA,2017,Coal,False,12.81,2.305,12.369,965.574
+France,FRA,2017,Demand,True,515.61,92.779,,
+France,FRA,2017,Gas,False,40.5,7.288,17.623,435.136
+France,FRA,2017,Nuclear,False,398.36,71.681,1.922,4.825
+France,FRA,2017,Other fossil,False,12.16,2.188,8.001,657.977
+France,FRA,2017,Renewables,True,91.91,16.538,3.618,39.365
+France,FRA,2017,Total generation,True,555.74,100.0,43.533,78.333
+France,FRA,2018,Coal,False,8.31,1.442,8.024,965.584
+France,FRA,2018,Demand,True,513.27,89.072,,
+France,FRA,2018,Gas,False,30.55,5.302,13.293,435.123
+France,FRA,2018,Nuclear,False,412.94,71.661,1.992,4.824
+France,FRA,2018,Other fossil,False,10.59,1.838,6.968,657.979
+France,FRA,2018,Renewables,True,113.85,19.757,4.263,37.444
+France,FRA,2018,Total generation,True,576.24,100.0,34.54,59.94
+France,FRA,2019,Coal,False,3.64,0.644,3.515,965.659
+France,FRA,2019,Demand,True,507.85,89.802,,
+France,FRA,2019,Gas,False,39.24,6.939,17.075,435.143
+France,FRA,2019,Nuclear,False,399.01,70.556,1.925,4.824
+France,FRA,2019,Other fossil,False,10.73,1.897,7.06,657.968
+France,FRA,2019,Renewables,True,112.9,19.964,4.241,37.564
+France,FRA,2019,Total generation,True,565.52,100.0,33.815,59.795
+France,FRA,2020,Coal,False,3.09,0.586,2.984,965.696
+France,FRA,2020,Demand,True,482.21,91.458,,
+France,FRA,2020,Gas,False,35.25,6.686,15.338,435.121
+France,FRA,2020,Nuclear,False,353.83,67.109,1.707,4.824
+France,FRA,2020,Other fossil,False,10.05,1.906,6.613,658.01
+France,FRA,2020,Renewables,True,125.03,23.714,4.516,36.119
+France,FRA,2020,Total generation,True,527.25,100.0,31.158,59.095
+France,FRA,2021,Coal,False,5.44,0.989,5.249,964.89
+France,FRA,2021,Demand,True,505.42,91.843,,
+France,FRA,2021,Gas,False,33.31,6.053,14.494,435.125
+France,FRA,2021,Nuclear,False,379.36,68.936,1.83,4.824
+France,FRA,2021,Other fossil,False,10.1,1.835,6.646,658.02
+France,FRA,2021,Renewables,True,122.1,22.187,4.69,38.411
+France,FRA,2021,Total generation,True,550.31,100.0,32.909,59.801
+France,FRA,2022,Coal,False,4.16,0.888,4.009,963.702
+France,FRA,2022,Demand,True,483.31,103.19,,
+France,FRA,2022,Gas,False,45.74,9.766,19.903,435.133
+France,FRA,2022,Nuclear,False,294.73,62.927,1.422,4.825
+France,FRA,2022,Other fossil,False,10.45,2.231,6.876,657.99
+France,FRA,2022,Renewables,True,113.29,24.188,4.582,40.445
+France,FRA,2022,Total generation,True,468.37,100.0,36.792,78.553
+France,FRA,2023,Coal,False,1.61,0.31,1.55,962.733
+France,FRA,2023,Demand,True,468.28,90.271,,
+France,FRA,2023,Gas,False,30.02,5.787,13.063,435.143
+France,FRA,2023,Nuclear,False,338.2,65.195,1.632,4.826
+France,FRA,2023,Other fossil,False,9.43,1.818,6.205,658.006
+France,FRA,2023,Renewables,True,139.49,26.89,5.192,37.221
+France,FRA,2023,Total generation,True,518.75,100.0,27.642,53.286
+France,FRA,2024,Coal,False,1.02,0.182,0.981,961.765
+France,FRA,2024,Demand,True,471.96,83.988,,
+France,FRA,2024,Gas,False,18.1,3.221,7.876,435.138
+France,FRA,2024,Nuclear,False,380.45,67.703,1.836,4.826
+France,FRA,2024,Other fossil,False,9.54,1.698,6.277,657.966
+France,FRA,2024,Renewables,True,152.83,27.197,5.769,37.748
+France,FRA,2024,Total generation,True,561.94,100.0,22.738,40.463
+France,FRA,2025,Coal,False,1.74,0.305,1.673,961.494
+France,FRA,2025,Demand,True,476.34,83.548,,
+France,FRA,2025,Gas,False,17.25,3.026,7.506,435.13
+France,FRA,2025,Nuclear,False,392.07,68.767,1.892,4.826
+France,FRA,2025,Other fossil,False,10.36,1.817,6.817,658.012
+France,FRA,2025,Renewables,True,148.72,26.085,5.745,38.63
+France,FRA,2025,Total generation,True,570.14,100.0,23.633,41.451
+India,IND,2015,Coal,False,1006.55,76.803,924.814,918.796
+India,IND,2015,Demand,True,1310.65,100.007,,
+India,IND,2015,Gas,False,64.77,4.942,44.89,693.068
+India,IND,2015,Nuclear,False,38.31,2.923,0.225,5.873
+India,IND,2015,Other fossil,False,9.26,0.707,6.093,657.991
+India,IND,2015,Renewables,True,191.67,14.625,8.005,41.764
+India,IND,2015,Total generation,True,1310.56,100.0,984.028,750.845
+India,IND,2016,Coal,False,1073.6,76.964,984.4,916.915
+India,IND,2016,Demand,True,1393.84,99.922,,
+India,IND,2016,Gas,False,72.62,5.206,50.331,693.074
+India,IND,2016,Nuclear,False,37.9,2.717,0.223,5.884
+India,IND,2016,Other fossil,False,9.41,0.675,6.192,658.023
+India,IND,2016,Renewables,True,201.4,14.438,8.053,39.985
+India,IND,2016,Total generation,True,1394.93,100.0,1049.198,752.151
+India,IND,2017,Coal,False,1115.24,76.261,1020.796,915.315
+India,IND,2017,Demand,True,1460.8,99.891,,
+India,IND,2017,Gas,False,74.99,5.128,51.973,693.066
+India,IND,2017,Nuclear,False,37.41,2.558,0.22,5.881
+India,IND,2017,Other fossil,False,8.79,0.601,5.784,658.02
+India,IND,2017,Renewables,True,225.96,15.451,8.382,37.095
+India,IND,2017,Total generation,True,1462.39,100.0,1087.155,743.41
+India,IND,2018,Coal,False,1198.86,76.28,1096.095,914.281
+India,IND,2018,Demand,True,1567.81,99.756,,
+India,IND,2018,Gas,False,71.26,4.534,49.388,693.068
+India,IND,2018,Nuclear,False,39.05,2.485,0.23,5.89
+India,IND,2018,Other fossil,False,6.4,0.407,4.211,657.969
+India,IND,2018,Renewables,True,256.08,16.294,10.054,39.261
+India,IND,2018,Total generation,True,1571.65,100.0,1159.978,738.064
+India,IND,2019,Coal,False,1198.76,74.877,1094.557,913.074
+India,IND,2019,Demand,True,1597.84,99.804,,
+India,IND,2019,Gas,False,71.95,4.494,49.866,693.065
+India,IND,2019,Nuclear,False,45.16,2.821,0.266,5.89
+India,IND,2019,Other fossil,False,3.07,0.192,2.02,657.98
+India,IND,2019,Renewables,True,282.04,17.617,10.761,38.154
+India,IND,2019,Total generation,True,1600.98,100.0,1157.47,722.976
+India,IND,2020,Coal,False,1143.78,73.158,1043.249,912.106
+India,IND,2020,Demand,True,1563.32,99.993,,
+India,IND,2020,Gas,False,74.79,4.784,51.835,693.074
+India,IND,2020,Nuclear,False,44.61,2.853,0.262,5.873
+India,IND,2020,Other fossil,False,3.09,0.198,2.033,657.929
+India,IND,2020,Renewables,True,297.16,19.007,11.681,39.309
+India,IND,2020,Total generation,True,1563.43,100.0,1109.06,709.376
+India,IND,2021,Coal,False,1255.56,74.793,1144.414,911.477
+India,IND,2021,Demand,True,1678.69,99.998,,
+India,IND,2021,Gas,False,60.4,3.598,41.861,693.063
+India,IND,2021,Nuclear,False,43.92,2.616,0.258,5.874
+India,IND,2021,Other fossil,False,3.39,0.202,2.231,658.112
+India,IND,2021,Renewables,True,315.45,18.791,12.612,39.981
+India,IND,2021,Total generation,True,1678.72,100.0,1201.377,715.651
+India,IND,2022,Coal,False,1344.42,74.499,1224.733,910.975
+India,IND,2022,Demand,True,1802.88,99.904,,
+India,IND,2022,Gas,False,46.17,2.558,31.999,693.069
+India,IND,2022,Nuclear,False,46.19,2.56,0.272,5.889
+India,IND,2022,Other fossil,False,3.48,0.193,2.29,658.046
+India,IND,2022,Renewables,True,364.35,20.19,14.882,40.845
+India,IND,2022,Total generation,True,1804.61,100.0,1274.176,706.067
+India,IND,2023,Coal,False,1445.44,75.352,1315.755,910.28
+India,IND,2023,Demand,True,1916.2,99.893,,
+India,IND,2023,Gas,False,50.8,2.648,35.208,693.071
+India,IND,2023,Nuclear,False,48.2,2.513,0.283,5.871
+India,IND,2023,Other fossil,False,3.85,0.201,2.533,657.922
+India,IND,2023,Renewables,True,369.97,19.287,15.333,41.444
+India,IND,2023,Total generation,True,1918.26,100.0,1369.113,713.727
+India,IND,2024,Coal,False,1517.9,74.534,1380.377,909.399
+India,IND,2024,Demand,True,2034.22,99.887,,
+India,IND,2024,Gas,False,56.44,2.771,39.117,693.072
+India,IND,2024,Nuclear,False,54.7,2.686,0.322,5.887
+India,IND,2024,Other fossil,False,4.09,0.201,2.691,657.946
+India,IND,2024,Renewables,True,403.39,19.808,16.642,41.255
+India,IND,2024,Total generation,True,2036.52,100.0,1439.149,706.671
+India,IND,2025,Coal,False,1474.15,70.818,1338.954,908.289
+India,IND,2025,Demand,True,2082.82,100.059,,
+India,IND,2025,Gas,False,48.54,2.332,33.642,693.078
+India,IND,2025,Nuclear,False,53.83,2.586,0.317,5.889
+India,IND,2025,Other fossil,False,4.1,0.197,2.698,658.049
+India,IND,2025,Renewables,True,500.98,24.067,20.199,40.319
+India,IND,2025,Total generation,True,2081.6,100.0,1395.809,670.546
+Japan,JPN,2015,Coal,False,349.64,33.942,289.871,829.056
+Japan,JPN,2015,Demand,True,1030.12,100.0,,
+Japan,JPN,2015,Gas,False,417.5,40.529,227.04,543.808
+Japan,JPN,2015,Nuclear,False,4.52,0.439,0.024,5.31
+Japan,JPN,2015,Other fossil,False,104.44,10.139,68.722,658.005
+Japan,JPN,2015,Renewables,True,154.02,14.952,9.898,64.264
+Japan,JPN,2015,Total generation,True,1030.12,100.0,595.555,578.141
+Japan,JPN,2016,Coal,False,338.59,31.831,280.752,829.18
+Japan,JPN,2016,Demand,True,1063.7,100.0,,
+Japan,JPN,2016,Gas,False,458.43,43.098,249.298,543.808
+Japan,JPN,2016,Nuclear,False,17.68,1.662,0.093,5.26
+Japan,JPN,2016,Other fossil,False,97.23,9.141,63.977,657.997
+Japan,JPN,2016,Renewables,True,151.77,14.268,9.125,60.124
+Japan,JPN,2016,Total generation,True,1063.7,100.0,603.245,567.119
+Japan,JPN,2017,Coal,False,363.47,33.753,301.385,829.188
+Japan,JPN,2017,Demand,True,1076.86,100.0,,
+Japan,JPN,2017,Gas,False,464.13,43.1,252.398,543.809
+Japan,JPN,2017,Nuclear,False,29.07,2.7,0.152,5.229
+Japan,JPN,2017,Other fossil,False,56.89,5.283,37.434,658.007
+Japan,JPN,2017,Renewables,True,163.3,15.164,9.667,59.198
+Japan,JPN,2017,Total generation,True,1076.86,100.0,601.036,558.138
+Japan,JPN,2018,Coal,False,360.66,33.304,299.057,829.194
+Japan,JPN,2018,Demand,True,1082.93,100.0,,
+Japan,JPN,2018,Gas,False,445.61,41.149,242.327,543.81
+Japan,JPN,2018,Nuclear,False,49.11,4.535,0.257,5.233
+Japan,JPN,2018,Other fossil,False,52.21,4.821,34.354,657.997
+Japan,JPN,2018,Renewables,True,175.34,16.191,10.485,59.798
+Japan,JPN,2018,Total generation,True,1082.93,100.0,586.48,541.568
+Japan,JPN,2019,Coal,False,350.77,33.49,290.793,829.013
+Japan,JPN,2019,Demand,True,1047.4,100.0,,
+Japan,JPN,2019,Gas,False,416.95,39.808,226.741,543.809
+Japan,JPN,2019,Nuclear,False,65.64,6.267,0.344,5.241
+Japan,JPN,2019,Other fossil,False,37.63,3.593,24.761,658.012
+Japan,JPN,2019,Renewables,True,176.41,16.843,11.013,62.428
+Japan,JPN,2019,Total generation,True,1047.4,100.0,553.651,528.596
+Japan,JPN,2020,Coal,False,340.25,33.654,281.992,828.779
+Japan,JPN,2020,Demand,True,1011.03,100.0,,
+Japan,JPN,2020,Gas,False,409.44,40.497,222.657,543.809
+Japan,JPN,2020,Nuclear,False,43.0,4.253,0.225,5.233
+Japan,JPN,2020,Other fossil,False,25.31,2.503,16.654,658.001
+Japan,JPN,2020,Renewables,True,193.03,19.092,12.13,62.84
+Japan,JPN,2020,Total generation,True,1011.03,100.0,533.659,527.837
+Japan,JPN,2021,Coal,False,348.26,33.659,288.222,827.606
+Japan,JPN,2021,Demand,True,1034.67,100.0,,
+Japan,JPN,2021,Gas,False,385.78,37.285,209.791,543.81
+Japan,JPN,2021,Nuclear,False,61.22,5.917,0.321,5.243
+Japan,JPN,2021,Other fossil,False,31.27,3.022,20.576,658.011
+Japan,JPN,2021,Renewables,True,208.14,20.117,13.522,64.966
+Japan,JPN,2021,Total generation,True,1034.67,100.0,532.431,514.59
+Japan,JPN,2022,Coal,False,350.99,33.731,289.965,826.135
+Japan,JPN,2022,Demand,True,1040.57,100.0,,
+Japan,JPN,2022,Gas,False,378.84,36.407,206.017,543.81
+Japan,JPN,2022,Nuclear,False,51.77,4.975,0.271,5.235
+Japan,JPN,2022,Other fossil,False,45.78,4.4,30.123,657.995
+Japan,JPN,2022,Renewables,True,213.19,20.488,14.394,67.517
+Japan,JPN,2022,Total generation,True,1040.57,100.0,540.77,519.686
+Japan,JPN,2023,Coal,False,326.93,32.474,269.881,825.501
+Japan,JPN,2023,Demand,True,1006.73,100.0,,
+Japan,JPN,2023,Gas,False,346.98,34.466,188.691,543.809
+Japan,JPN,2023,Nuclear,False,77.46,7.694,0.406,5.241
+Japan,JPN,2023,Other fossil,False,32.5,3.228,21.385,658.0
+Japan,JPN,2023,Renewables,True,222.86,22.137,15.547,69.761
+Japan,JPN,2023,Total generation,True,1006.73,100.0,495.909,492.594
+Japan,JPN,2024,Coal,False,327.13,32.185,269.887,825.015
+Japan,JPN,2024,Demand,True,1016.39,100.0,,
+Japan,JPN,2024,Gas,False,346.24,34.066,188.288,543.808
+Japan,JPN,2024,Nuclear,False,84.91,8.354,0.445,5.241
+Japan,JPN,2024,Other fossil,False,25.0,2.46,16.45,658.0
+Japan,JPN,2024,Renewables,True,233.11,22.935,16.436,70.507
+Japan,JPN,2024,Total generation,True,1016.39,100.0,491.506,483.58
+Japan,JPN,2025,Coal,False,330.12,32.051,272.292,824.827
+Japan,JPN,2025,Demand,True,1029.97,100.0,,
+Japan,JPN,2025,Gas,False,337.64,32.782,183.612,543.81
+Japan,JPN,2025,Nuclear,False,94.09,9.135,0.493,5.24
+Japan,JPN,2025,Other fossil,False,25.39,2.465,16.707,658.015
+Japan,JPN,2025,Renewables,True,242.73,23.567,18.58,76.546
+Japan,JPN,2025,Total generation,True,1029.97,100.0,491.683,477.376
+South Korea,KOR,2015,Coal,False,232.68,42.475,192.914,829.096
+South Korea,KOR,2015,Demand,True,547.8,100.0,,
+South Korea,KOR,2015,Gas,False,122.03,22.276,62.835,514.914
+South Korea,KOR,2015,Nuclear,False,164.76,30.077,0.863,5.238
+South Korea,KOR,2015,Other fossil,False,13.13,2.397,8.64,658.035
+South Korea,KOR,2015,Renewables,True,15.2,2.775,1.884,123.947
+South Korea,KOR,2015,Total generation,True,547.8,100.0,267.136,487.652
+South Korea,KOR,2016,Coal,False,232.91,41.518,192.904,828.234
+South Korea,KOR,2016,Demand,True,560.98,100.0,,
+South Korea,KOR,2016,Gas,False,130.52,23.266,67.206,514.91
+South Korea,KOR,2016,Nuclear,False,161.99,28.876,0.848,5.235
+South Korea,KOR,2016,Other fossil,False,17.43,3.107,11.469,658.003
+South Korea,KOR,2016,Renewables,True,18.13,3.232,2.096,115.609
+South Korea,KOR,2016,Total generation,True,560.98,100.0,274.523,489.363
+South Korea,KOR,2017,Coal,False,260.79,45.244,215.519,826.408
+South Korea,KOR,2017,Demand,True,576.41,100.0,,
+South Korea,KOR,2017,Gas,False,135.16,23.449,69.595,514.908
+South Korea,KOR,2017,Nuclear,False,148.43,25.751,0.777,5.235
+South Korea,KOR,2017,Other fossil,False,9.7,1.683,6.383,658.041
+South Korea,KOR,2017,Renewables,True,22.33,3.874,2.537,113.614
+South Korea,KOR,2017,Total generation,True,576.41,100.0,294.812,511.462
+South Korea,KOR,2018,Coal,False,257.67,43.459,212.692,825.443
+South Korea,KOR,2018,Demand,True,592.91,100.0,,
+South Korea,KOR,2018,Gas,False,163.28,27.539,84.075,514.913
+South Korea,KOR,2018,Nuclear,False,133.51,22.518,0.699,5.236
+South Korea,KOR,2018,Other fossil,False,10.65,1.796,7.008,658.028
+South Korea,KOR,2018,Renewables,True,27.8,4.689,3.145,113.129
+South Korea,KOR,2018,Total generation,True,592.91,100.0,307.619,518.829
+South Korea,KOR,2019,Coal,False,245.04,41.759,202.309,825.616
+South Korea,KOR,2019,Demand,True,586.8,100.0,,
+South Korea,KOR,2019,Gas,False,155.41,26.484,80.022,514.909
+South Korea,KOR,2019,Nuclear,False,145.91,24.865,0.764,5.236
+South Korea,KOR,2019,Other fossil,False,7.43,1.266,4.889,658.008
+South Korea,KOR,2019,Renewables,True,33.01,5.625,3.658,110.815
+South Korea,KOR,2019,Total generation,True,586.8,100.0,291.642,497.004
+South Korea,KOR,2020,Coal,False,207.97,36.036,171.561,824.931
+South Korea,KOR,2020,Demand,True,577.11,100.0,,
+South Korea,KOR,2020,Gas,False,162.54,28.164,83.694,514.913
+South Korea,KOR,2020,Nuclear,False,160.18,27.756,0.839,5.238
+South Korea,KOR,2020,Other fossil,False,6.02,1.043,3.961,657.973
+South Korea,KOR,2020,Renewables,True,40.4,7.0,4.081,101.015
+South Korea,KOR,2020,Total generation,True,577.11,100.0,264.136,457.687
+South Korea,KOR,2021,Coal,False,213.32,35.099,175.459,822.515
+South Korea,KOR,2021,Demand,True,607.76,100.0,,
+South Korea,KOR,2021,Gas,False,181.23,29.819,93.317,514.909
+South Korea,KOR,2021,Nuclear,False,158.01,25.999,0.828,5.24
+South Korea,KOR,2021,Other fossil,False,7.1,1.168,4.672,658.028
+South Korea,KOR,2021,Renewables,True,48.1,7.914,4.992,103.784
+South Korea,KOR,2021,Total generation,True,607.76,100.0,279.268,459.504
+South Korea,KOR,2022,Coal,False,209.22,33.605,171.757,820.94
+South Korea,KOR,2022,Demand,True,622.59,100.0,,
+South Korea,KOR,2022,Gas,False,174.71,28.062,89.96,514.91
+South Korea,KOR,2022,Nuclear,False,176.05,28.277,0.922,5.237
+South Korea,KOR,2022,Other fossil,False,7.12,1.144,4.685,658.006
+South Korea,KOR,2022,Renewables,True,55.49,8.913,5.443,98.09
+South Korea,KOR,2022,Total generation,True,622.59,100.0,272.767,438.117
+South Korea,KOR,2023,Coal,False,201.34,32.606,165.251,820.756
+South Korea,KOR,2023,Demand,True,617.49,100.0,,
+South Korea,KOR,2023,Gas,False,169.61,27.468,87.334,514.911
+South Korea,KOR,2023,Nuclear,False,180.49,29.23,0.945,5.236
+South Korea,KOR,2023,Other fossil,False,6.98,1.13,4.593,658.023
+South Korea,KOR,2023,Renewables,True,59.07,9.566,5.754,97.41
+South Korea,KOR,2023,Total generation,True,617.49,100.0,263.877,427.338
+South Korea,KOR,2024,Coal,False,190.78,30.506,156.55,820.579
+South Korea,KOR,2024,Demand,True,625.38,100.0,,
+South Korea,KOR,2024,Gas,False,178.35,28.519,91.834,514.909
+South Korea,KOR,2024,Nuclear,False,188.75,30.182,0.988,5.234
+South Korea,KOR,2024,Other fossil,False,6.78,1.084,4.461,657.965
+South Korea,KOR,2024,Renewables,True,60.72,9.709,6.093,100.346
+South Korea,KOR,2024,Total generation,True,625.38,100.0,259.927,415.63
+South Korea,KOR,2025,Coal,False,194.53,31.142,159.602,820.449
+South Korea,KOR,2025,Demand,True,624.66,100.0,,
+South Korea,KOR,2025,Gas,False,174.58,27.948,89.893,514.91
+South Korea,KOR,2025,Nuclear,False,184.67,29.563,0.967,5.236
+South Korea,KOR,2025,Other fossil,False,5.95,0.953,3.915,657.983
+South Korea,KOR,2025,Renewables,True,64.93,10.394,6.186,95.272
+South Korea,KOR,2025,Total generation,True,624.66,100.0,260.563,417.128
+Russia,RUS,2015,Coal,False,158.55,14.852,152.998,964.983
+Russia,RUS,2015,Demand,True,1055.89,98.908,,
+Russia,RUS,2015,Gas,False,529.76,49.624,306.436,578.443
+Russia,RUS,2015,Nuclear,False,195.47,18.31,1.08,5.525
+Russia,RUS,2015,Other fossil,False,14.81,1.387,9.745,658.001
+Russia,RUS,2015,Renewables,True,168.96,15.827,4.113,24.343
+Russia,RUS,2015,Total generation,True,1067.55,100.0,474.372,444.356
+Russia,RUS,2016,Coal,False,171.45,15.715,165.472,965.133
+Russia,RUS,2016,Demand,True,1076.47,98.671,,
+Russia,RUS,2016,Gas,False,521.81,47.83,301.838,578.444
+Russia,RUS,2016,Nuclear,False,196.61,18.022,1.086,5.524
+Russia,RUS,2016,Other fossil,False,15.42,1.413,10.146,657.977
+Russia,RUS,2016,Renewables,True,185.68,17.02,4.508,24.278
+Russia,RUS,2016,Total generation,True,1090.97,100.0,483.05,442.771
+Russia,RUS,2017,Coal,False,174.01,15.947,168.018,965.565
+Russia,RUS,2017,Demand,True,1080.57,99.029,,
+Russia,RUS,2017,Gas,False,516.27,47.313,298.633,578.443
+Russia,RUS,2017,Nuclear,False,203.14,18.617,1.122,5.523
+Russia,RUS,2017,Other fossil,False,11.39,1.044,7.495,658.033
+Russia,RUS,2017,Renewables,True,186.36,17.079,4.539,24.356
+Russia,RUS,2017,Total generation,True,1091.17,100.0,479.807,439.718
+Russia,RUS,2018,Coal,False,176.61,15.922,170.572,965.812
+Russia,RUS,2018,Demand,True,1096.59,98.864,,
+Russia,RUS,2018,Gas,False,523.72,47.216,302.943,578.445
+Russia,RUS,2018,Nuclear,False,204.58,18.444,1.13,5.524
+Russia,RUS,2018,Other fossil,False,12.28,1.107,8.08,657.98
+Russia,RUS,2018,Renewables,True,192.0,17.31,4.67,24.323
+Russia,RUS,2018,Total generation,True,1109.19,100.0,487.395,439.415
+Russia,RUS,2019,Coal,False,187.55,16.773,181.241,966.361
+Russia,RUS,2019,Demand,True,1099.73,98.352,,
+Russia,RUS,2019,Gas,False,512.33,45.819,296.354,578.444
+Russia,RUS,2019,Nuclear,False,208.99,18.691,1.154,5.522
+Russia,RUS,2019,Other fossil,False,13.07,1.169,8.6,657.995
+Russia,RUS,2019,Renewables,True,196.22,17.548,4.786,24.391
+Russia,RUS,2019,Total generation,True,1118.16,100.0,492.136,440.13
+Russia,RUS,2020,Coal,False,174.96,16.119,169.247,967.347
+Russia,RUS,2020,Demand,True,1074.68,99.011,,
+Russia,RUS,2020,Gas,False,465.88,42.922,269.485,578.443
+Russia,RUS,2020,Nuclear,False,215.91,19.892,1.193,5.525
+Russia,RUS,2020,Other fossil,False,12.42,1.144,8.172,657.971
+Russia,RUS,2020,Renewables,True,216.25,19.923,5.323,24.615
+Russia,RUS,2020,Total generation,True,1085.42,100.0,453.421,417.738
+Russia,RUS,2021,Coal,False,187.14,16.174,181.189,968.2
+Russia,RUS,2021,Demand,True,1135.73,98.156,,
+Russia,RUS,2021,Gas,False,513.41,44.372,296.979,578.444
+Russia,RUS,2021,Nuclear,False,222.39,19.22,1.228,5.522
+Russia,RUS,2021,Other fossil,False,13.89,1.2,9.14,658.027
+Russia,RUS,2021,Renewables,True,220.24,19.034,5.412,24.573
+Russia,RUS,2021,Total generation,True,1157.07,100.0,493.948,426.896
+Russia,RUS,2022,Coal,False,191.96,16.45,185.921,968.54
+Russia,RUS,2022,Demand,True,1150.54,98.595,,
+Russia,RUS,2022,Gas,False,531.59,45.554,307.495,578.444
+Russia,RUS,2022,Nuclear,False,223.7,19.17,1.236,5.525
+Russia,RUS,2022,Other fossil,False,14.58,1.249,9.594,658.025
+Russia,RUS,2022,Renewables,True,205.11,17.577,5.038,24.562
+Russia,RUS,2022,Total generation,True,1166.94,100.0,509.283,436.426
+Russia,RUS,2023,Coal,False,204.06,17.319,197.535,968.024
+Russia,RUS,2023,Demand,True,1161.72,98.597,,
+Russia,RUS,2023,Gas,False,533.35,45.266,308.513,578.444
+Russia,RUS,2023,Nuclear,False,217.38,18.449,1.201,5.525
+Russia,RUS,2023,Other fossil,False,14.36,1.219,9.449,658.008
+Russia,RUS,2023,Renewables,True,209.1,17.747,5.133,24.548
+Russia,RUS,2023,Total generation,True,1178.25,100.0,521.831,442.886
+Russia,RUS,2024,Coal,False,215.17,17.793,208.164,967.44
+Russia,RUS,2024,Demand,True,1192.91,98.644,,
+Russia,RUS,2024,Gas,False,545.78,45.132,315.703,578.444
+Russia,RUS,2024,Nuclear,False,215.71,17.837,1.191,5.521
+Russia,RUS,2024,Other fossil,False,13.79,1.14,9.074,658.013
+Russia,RUS,2024,Renewables,True,218.86,18.098,5.37,24.536
+Russia,RUS,2024,Total generation,True,1209.31,100.0,539.503,446.125
+Russia,RUS,2025,Coal,False,219.52,18.404,212.364,967.402
+Russia,RUS,2025,Demand,True,1176.09,98.601,,
+Russia,RUS,2025,Gas,False,533.17,44.7,308.409,578.444
+Russia,RUS,2025,Nuclear,False,218.64,18.33,1.208,5.525
+Russia,RUS,2025,Other fossil,False,14.47,1.213,9.521,657.982
+Russia,RUS,2025,Renewables,True,206.98,17.353,5.087,24.577
+Russia,RUS,2025,Total generation,True,1192.78,100.0,536.588,449.863
+United States,USA,2015,Coal,False,1352.4,33.115,1285.568,950.583
+United States,USA,2015,Demand,True,4150.66,101.632,,
+United States,USA,2015,Gas,False,1333.48,32.651,716.481,537.302
+United States,USA,2015,Nuclear,False,797.18,19.52,4.316,5.414
+United States,USA,2015,Other fossil,False,44.44,1.088,31.108,700.0
+United States,USA,2015,Renewables,True,556.49,13.626,24.713,44.409
+United States,USA,2015,Total generation,True,4083.99,100.0,2062.187,504.944
+United States,USA,2016,Coal,False,1239.15,30.315,1177.323,950.105
+United States,USA,2016,Demand,True,4154.06,101.627,,
+United States,USA,2016,Gas,False,1378.31,33.72,740.569,537.302
+United States,USA,2016,Nuclear,False,805.69,19.711,4.362,5.414
+United States,USA,2016,Other fossil,False,39.5,0.966,27.65,700.0
+United States,USA,2016,Renewables,True,624.91,15.288,25.995,41.598
+United States,USA,2016,Total generation,True,4087.56,100.0,1975.898,483.393
+United States,USA,2017,Coal,False,1205.84,29.757,1145.267,949.767
+United States,USA,2017,Demand,True,4108.62,101.39,,
+United States,USA,2017,Gas,False,1296.44,31.993,696.58,537.302
+United States,USA,2017,Nuclear,False,804.95,19.864,4.358,5.414
+United States,USA,2017,Other fossil,False,37.89,0.935,26.523,700.0
+United States,USA,2017,Renewables,True,707.19,17.452,28.077,39.702
+United States,USA,2017,Total generation,True,4052.31,100.0,1900.804,469.067
+United States,USA,2018,Coal,False,1149.49,27.359,1091.543,949.589
+United States,USA,2018,Demand,True,4246.01,101.058,,
+United States,USA,2018,Gas,False,1469.13,34.966,789.366,537.302
+United States,USA,2018,Nuclear,False,807.08,19.209,4.369,5.413
+United States,USA,2018,Other fossil,False,42.68,1.016,29.876,700.0
+United States,USA,2018,Renewables,True,733.17,17.45,28.611,39.024
+United States,USA,2018,Total generation,True,4201.55,100.0,1943.766,462.631
+United States,USA,2019,Coal,False,964.96,23.205,916.401,949.678
+United States,USA,2019,Demand,True,4197.42,100.939,,
+United States,USA,2019,Gas,False,1585.81,38.135,852.059,537.302
+United States,USA,2019,Nuclear,False,809.41,19.465,4.382,5.414
+United States,USA,2019,Other fossil,False,37.44,0.9,26.208,700.0
+United States,USA,2019,Renewables,True,760.76,18.295,28.337,37.248
+United States,USA,2019,Total generation,True,4158.38,100.0,1827.387,439.447
+United States,USA,2020,Coal,False,773.39,19.128,734.577,949.814
+United States,USA,2020,Demand,True,4090.49,101.17,,
+United States,USA,2020,Gas,False,1624.17,40.171,872.67,537.302
+United States,USA,2020,Nuclear,False,789.88,19.536,4.276,5.413
+United States,USA,2020,Other fossil,False,34.34,0.849,24.038,700.0
+United States,USA,2020,Renewables,True,821.4,20.316,29.137,35.472
+United States,USA,2020,Total generation,True,4043.18,100.0,1664.698,411.73
+United States,USA,2021,Coal,False,898.0,21.62,852.66,949.51
+United States,USA,2021,Demand,True,4192.93,100.946,,
+United States,USA,2021,Gas,False,1579.19,38.02,848.502,537.302
+United States,USA,2021,Nuclear,False,779.65,18.77,4.221,5.414
+United States,USA,2021,Other fossil,False,35.2,0.847,24.64,700.0
+United States,USA,2021,Renewables,True,861.58,20.743,30.196,35.047
+United States,USA,2021,Total generation,True,4153.62,100.0,1760.219,423.779
+United States,USA,2022,Coal,False,831.51,19.397,789.472,949.444
+United States,USA,2022,Demand,True,4328.1,100.961,,
+United States,USA,2022,Gas,False,1687.06,39.354,906.461,537.302
+United States,USA,2022,Nuclear,False,771.54,17.998,4.177,5.414
+United States,USA,2022,Other fossil,False,38.64,0.901,27.048,700.0
+United States,USA,2022,Renewables,True,958.14,22.35,32.124,33.527
+United States,USA,2022,Total generation,True,4286.89,100.0,1759.282,410.387
+United States,USA,2023,Coal,False,675.11,15.87,641.232,949.819
+United States,USA,2023,Demand,True,4272.81,100.444,,
+United States,USA,2023,Gas,False,1806.06,42.456,970.4,537.302
+United States,USA,2023,Nuclear,False,774.87,18.215,4.195,5.414
+United States,USA,2023,Other fossil,False,33.13,0.779,23.191,700.0
+United States,USA,2023,Renewables,True,964.74,22.679,32.346,33.528
+United States,USA,2023,Total generation,True,4253.91,100.0,1671.363,392.9
+United States,USA,2024,Coal,False,652.16,14.852,619.596,950.067
+United States,USA,2024,Demand,True,4404.83,100.315,,
+United States,USA,2024,Gas,False,1869.9,42.585,1004.701,537.302
+United States,USA,2024,Nuclear,False,781.86,17.806,4.233,5.414
+United States,USA,2024,Other fossil,False,30.47,0.694,21.329,700.0
+United States,USA,2024,Renewables,True,1056.63,24.063,35.457,33.557
+United States,USA,2024,Total generation,True,4391.02,100.0,1685.316,383.81
+United States,USA,2025,Coal,False,737.15,16.309,700.17,949.834
+United States,USA,2025,Demand,True,4535.995,100.359,,
+United States,USA,2025,Gas,False,1807.34,39.987,971.087,537.302
+United States,USA,2025,Nuclear,False,784.78,17.363,4.249,5.414
+United States,USA,2025,Other fossil,False,31.72,0.702,22.204,700.0
+United States,USA,2025,Renewables,True,1158.8,25.638,39.713,34.271
+United States,USA,2025,Total generation,True,4519.79,100.0,1737.423,384.403

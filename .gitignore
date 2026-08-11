@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Raw data downloads: large and mechanically reproducible via src/download_data.py.
+# We track provenance (source, access date, license) instead of the raw file itself.
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xlsx
+!data/raw/PROVENANCE.md
+!data/raw/.gitkeep
