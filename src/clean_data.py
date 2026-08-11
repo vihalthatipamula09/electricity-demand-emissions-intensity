@@ -7,7 +7,7 @@ the years and electricity sources this project actually needs, validates it,
 and writes data/processed/clean_annual_country_source.csv.
 
 This script does NOT calculate project metrics, classify countries, or
-produce findings -- that happens in analyze.py (Phase 6). Its only job is to
+produce findings -- that happens in analyze.py. Its only job is to
 turn the raw Ember file into a small, validated, analysis-ready table, and to
 fail loudly if the raw data doesn't support that.
 
@@ -51,8 +51,7 @@ REQUIRED_RAW_COLUMNS = [
 # and Renewables; the classification and CAGR/trend work need Demand and
 # Total generation. Individual renewable fuel rows (Wind, Solar, Hydro,
 # Bioenergy, Other renewables) are dropped -- we use Ember's own validated
-# "Renewables" aggregate instead of reconstructing it (see the Phase 5
-# report for why).
+# "Renewables" aggregate instead of reconstructing it.
 REQUIRED_SOURCES = [
     "Demand",
     "Total generation",
@@ -193,7 +192,7 @@ def print_eligibility_audit(audit: pd.DataFrame, top_n: int = 15) -> None:
 
 
 # ---------------------------------------------------------------------------
-# Germany "Other renewables" residual audit (required by Phase 5 review)
+# Germany "Other renewables" residual audit
 # ---------------------------------------------------------------------------
 
 def audit_germany_renewables_residual(countries: pd.DataFrame) -> None:

@@ -2,7 +2,7 @@
 visualize.py
 
 Reads outputs/country_summary.csv and data/processed/clean_annual_country_source.csv
-(both already validated in Phases 5-6) and produces the three final figures.
+and produces the three final figures.
 Recalculates nothing except what's structurally required to plot an annual
 series (i.e. pulling the 11-year Demand/Total generation rows for the 4
 Chart-3 countries) -- every headline number plotted comes straight from
@@ -90,7 +90,7 @@ def load_data() -> tuple[pd.DataFrame, pd.DataFrame]:
 
 
 def validate_before_plotting(summary: pd.DataFrame, clean: pd.DataFrame) -> dict:
-    """Checks required by the Phase 7 brief. Returns the verified quadrant counts."""
+    """Validate data structures and counts before plotting. Returns quadrant counts."""
     counts = summary["outcome_quadrant"].value_counts().to_dict()
     expected = {
         "Demand Up / Intensity Down": 5,
@@ -126,9 +126,7 @@ def validate_before_plotting(summary: pd.DataFrame, clean: pd.DataFrame) -> dict
 # Figure 1 -- primary quadrant scatter
 # ---------------------------------------------------------------------------
 
-# Manually tuned per-country label offsets (points), chosen after inspecting
-# the first draft render to avoid overlaps given these specific 10 data
-# points. Revisited/adjusted -- see Phase 7 report for what changed.
+# Manually tuned per-country label offsets (points) to avoid overlapping text.
 FIG1_LABEL_OFFSETS = {
     "China": (10, 6),
     "United States": (10, -12),

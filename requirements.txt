@@ -1,6 +1,4 @@
-# Minimal dependency set for the electricity demand / emissions-intensity pipeline.
-# Pinned to the exact versions verified against a clean-room reproduction of the
-# full pipeline (Phase 10 hostile audit, Python 3.10.12).
+# Core dependencies for the electricity demand and emissions-intensity pipeline.
 
 pandas==2.3.3
 numpy==2.2.6

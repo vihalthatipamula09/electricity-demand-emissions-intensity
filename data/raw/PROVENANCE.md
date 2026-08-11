@@ -1,8 +1,6 @@
 # Data provenance
 
-This file records exactly what source data this analysis is built on.
-Populated in Phase 4 from the actual downloaded file (verified programmatically,
-not assumed from documentation).
+This file records the source data details and schema for the Ember Yearly Electricity Dataset used in this analysis.
 
 | Field | Value |
 |---|---|
@@ -69,7 +67,7 @@ Columns, in order: `Area`, `ISO 3 code`, `Year`, `Area type`, `Electricity sourc
   few smaller countries' 2025 rows (e.g. Costa Rica's "Other fossil",
   Germany's "Other renewables") — residuals from Ember's monthly-to-annual
   reconciliation method. None of our 10 selected countries are materially
-  affected; verified directly (see Phase 4 report).
+  affected.
 - Zero duplicate `(Area, Year, Electricity source)` rows in the file.
 - The dataset is updated twice monthly by Ember; the version pinned here is
   the one actually used for every number in this repository. If the

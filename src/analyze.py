@@ -1,15 +1,9 @@
 """
 analyze.py
 
-Reads data/processed/clean_annual_country_source.csv ONLY (no raw-data
-access here -- that boundary is deliberate, see the Phase 6 report) and
-computes every metric this project reports, writing
-outputs/country_summary.csv as the single source of truth for charts,
-README numbers, and interpretation.
-
-This script calculates WHAT happened. It does not explain WHY, does not
-research policy context, and does not write findings prose -- that is
-Phase 8.
+Reads data/processed/clean_annual_country_source.csv and computes every metric
+this project reports, writing outputs/country_summary.csv as the single source
+of truth for charts, README numbers, and interpretation.
 
 Usage:
     python src/analyze.py
